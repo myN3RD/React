@@ -11,4 +11,6 @@ Whenever wie change something in the UI ->  we use STATE
 Effect : ...
 
 
-"IN React we try to devide UI into components"
+"In React we try to devide UI into components"
+
+A Convention in React is to name comonents in UpperCase!
