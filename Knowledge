@@ -1,4 +1,6 @@
 - React is a Frontend-Framework
+- React is component-based and state-driven
+- its a JS library
 
 
 A Frontend Framework is there for keeping the frontend/UI in sync with the data. -> (with plain vanilla JS this is way to hard)
