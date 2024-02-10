@@ -14,3 +14,14 @@ Effect : ...
 "In React we try to devide UI into components"
 
 A Convention in React is to name comonents in UpperCase!
+
+
+
+
+👉 React (Documentation that you should keep open at all times)
+
+👉 Create React App (This is how we'll setup our first app)
+
+👉 Vite: Getting Started (For real-world React apps)
+
+👉 Adding React URL to an HTML Document (For the "Pure React" lecture)
