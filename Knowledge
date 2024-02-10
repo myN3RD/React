@@ -2,7 +2,15 @@
 - React is component-based and state-driven
 - its a JS library
 
-- with React we never touch the DOM
+- with React we never touch the DOM (there is where we use STATE)
+
+
+A Frontend Framework is there for keeping the frontend/UI in sync with the data. -> (with plain vanilla JS this is way to hard)
+
+"DATA synchronizing with the UI"
+
+
+Frontend Frameworks enforce us to write code in a STRUCTURED way ("structured apps")
 
 
 
@@ -15,9 +23,16 @@
 👉 Adding React URL to an HTML Document (For the "Pure React" lecture)
 
 
-REACT is all about:
 
-components:
+
+REACT is all about:
+___________________
+
+
+          COMPONENTS
+          __________
+
+"In React we try to devide UI into components"
 
 - components are building blocks of UI (button, inputs fields etc.)
 
@@ -30,13 +45,6 @@ components:
 
 
 
-A Frontend Framework is there for keeping the frontend/UI in sync with the data. -> (with plain vanilla JS this is way to hard)
-
-"DATA synchronizing with the UI"
-
-
-Frontend Frameworks enforce us to write code in a STRUCTURED way ("structured apps")
-
 
 
 - Piece of date = Piece of state
@@ -45,11 +53,21 @@ Frontend Frameworks enforce us to write code in a STRUCTURED way ("structured ap
 
 
 
-Conceps: 
+          CONCEPS
+          _______
+
+STATE
+_____
 
 Most fundamental concept of react = STATE
 
-Whenever wie change something in the UI ->  we use STATE
+Whenever we change something in the UI ->  we use STATE
+
+NOTE:
+
+we never touch the DOM with React
+
+
 
 
 
@@ -58,7 +76,6 @@ Whenever wie change something in the UI ->  we use STATE
 Effect : ...
 
 
-"In React we try to devide UI into components"
 
 A Convention in React is to name comonents in UpperCase!
 
