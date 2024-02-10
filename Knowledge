@@ -2,6 +2,33 @@
 - React is component-based and state-driven
 - its a JS library
 
+- with React we never touch the DOM
+
+
+
+👉 React (Documentation that you should keep open at all times)
+
+👉 Create React App (This is how we'll setup our first app)
+
+👉 Vite: Getting Started (For real-world React apps)
+
+👉 Adding React URL to an HTML Document (For the "Pure React" lecture)
+
+
+REACT is all about:
+
+components:
+
+- components are building blocks of UI (button, inputs fields etc.)
+
+
+
+
+
+
+
+
+
 
 A Frontend Framework is there for keeping the frontend/UI in sync with the data. -> (with plain vanilla JS this is way to hard)
 
@@ -38,10 +65,4 @@ A Convention in React is to name comonents in UpperCase!
 
 
 
-👉 React (Documentation that you should keep open at all times)
 
-👉 Create React App (This is how we'll setup our first app)
-
-👉 Vite: Getting Started (For real-world React apps)
-
-👉 Adding React URL to an HTML Document (For the "Pure React" lecture)
