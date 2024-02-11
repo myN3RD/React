@@ -24,6 +24,21 @@ Frontend Frameworks enforce us to write code in a STRUCTURED way ("structured ap
 
 
 
+          2 WAYS TO SETUP A REACT PROJECT
+          _______________________________
+
+
+CREATE-REACT-APP                         VITE
+________________                         ____
+
+not recommended for 
+real-world projects
+
+(just for learning)
+
+
+
+
 
 REACT is all about:
 ___________________
