@@ -2,6 +2,8 @@
 - React is component-based and state-driven
 - its a JS library (actually so, its no framework)
 
+NOTE: before learning NEXT.js -> React learning has to be done 
+
 - with React we never touch the DOM (there is where we use STATE)
 
 
@@ -31,10 +33,10 @@ Frontend Frameworks enforce us to write code in a STRUCTURED way ("structured ap
 CREATE-REACT-APP                         VITE
 ________________                         ____
 
-not recommended for 
+❌ not recommended for           ✅ for real-world projects
 real-world projects
 
-(just for learning)
+✅ (just for learning)
 
 
 
