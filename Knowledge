@@ -41,6 +41,14 @@ real-world projects
 
 
 
+          CREATING A NEW REACT APP
+          ________________________
+
+1. Terminal
+2. go to the folder, where the app should be
+3. command  in terminal: npx create-react-app@5 folder-name  // @5 is maybe not neccessary
+
+
 
 REACT is all about:
 ___________________
