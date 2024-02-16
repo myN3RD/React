@@ -5,6 +5,8 @@
 NOTE: before learning NEXT.js -> React learning has to be done 
 
 - with React we never touch the DOM (there is where we use STATE)
+- in cases where we can NOT use if/else statements -> we use ternaries (operator)  
+          const bla = number > 100 ?  'over 100' : 'under 100';
 
 
 A Frontend Framework is there for keeping the frontend/UI in sync with the data. -> (with plain vanilla JS this is way to hard)
@@ -125,6 +127,11 @@ A Convention in React is to name comonents in UpperCase!
     <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
   </body>
 </html>
+
+
+
+
+
 
 
 
