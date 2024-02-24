@@ -88,9 +88,14 @@ ___________________
 
 - components are building blocks of UI (button, inputs fields etc.)
 
+- we nest component inside each other
+
+- so we have a "component tree"
+
+- we can reuse(reasusability) components
 
 
-
+-> WE USE COMPONENTS WITH RIDING FUNCTION!
 
 
 
