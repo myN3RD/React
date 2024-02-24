@@ -98,6 +98,22 @@ ___________________
 -> WE USE COMPONENTS WITH RIDING FUNCTION!
 
 
+function App() {
+  return (
+  <div>
+    <h1>Hello React!</h1>
+    <Pizza />
+  </div>
+  );
+}
+
+
+NOTE:
+
+we can just return one element per component
+
+-> to use more elements -> we have to use a div like above
+
 
 
 
