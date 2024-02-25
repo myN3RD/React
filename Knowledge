@@ -113,6 +113,8 @@ ___________________
 
 - we can reuse(reasusability) components
 
+- we use ONE Components per File ("Its seperation of concerns")
+
 
 
 function App() {
@@ -209,9 +211,19 @@ A Convention in React is to name comonents in UpperCase!
           JSX
           ___
 
+- "JSX combines HTML, CSS and JS into one single block of code"
+
+-> that means we dont have to use seperate files (single file apps)
+
+instead we use React Components + JSX
+
+ONE Components per File
+
 - is an extension of JS
 
 - describe the UI based on PROPS and STATE
+
+
 
 
 
