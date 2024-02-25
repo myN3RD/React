@@ -28,6 +28,21 @@ Frontend Frameworks enforce us to write code in a STRUCTURED way ("structured ap
 
 
 
+NOTE:
+
+in -stric mode- we got redering two times -> thats why we get 2 times console log for example
+
+// React v18
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);
+
+
+
+
           2 WAYS TO SETUP A REACT PROJECT
           _______________________________
 
@@ -84,6 +99,10 @@ ___________________
           COMPONENTS
           __________
 
+"Components are just JS FUNCTIONS!"
+
+-> SO WE USE COMPONENTS WITH RIDING FUNCTION!
+
 "In React we try to devide UI into components"
 
 - components are building blocks of UI (button, inputs fields etc.)
@@ -94,8 +113,6 @@ ___________________
 
 - we can reuse(reasusability) components
 
-
--> WE USE COMPONENTS WITH RIDING FUNCTION!
 
 
 function App() {
