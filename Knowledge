@@ -107,6 +107,11 @@ function App() {
   );
 }
 
+function Pizza() {
+  return <h2>Pizza</h2>
+}
+
+
 
 NOTE:
 
@@ -115,6 +120,7 @@ we can just return one element per component
 -> to use more elements -> we have to use a div like above
 
 
+NEVER NEST FUNCTION INTO OTHER FUNCTION !
 
 
 
