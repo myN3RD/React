@@ -1,6 +1,7 @@
 - React is a Frontend-Framework
 - React is component-based and state-driven
 - its a JS library (actually so, its no framework)
+- we can style (css) how we want in React (inline, external)
 
 NOTE: before learning NEXT.js -> React learning has to be done 
 
@@ -222,6 +223,22 @@ ONE Components per File
 - is an extension of JS
 
 - describe the UI based on PROPS and STATE
+
+
+
+STYLE
+_____
+
+- we can't style (css) how we want with JSX
+
+-> <h1 style={{color: 'red', fontSize: "62px", textTransform: "uppercase" }}>Fast React Pizza Co.</h1>
+
+OR
+
+function Header() {
+  const style = { color: 'red', fontSize: "62px", textTransform: "uppercase" };
+  return <h1 style={style}>Fast React Pizza Co.</h1> // thats JSX btw
+}
 
 
 
