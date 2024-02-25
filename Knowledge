@@ -30,7 +30,7 @@ Frontend Frameworks enforce us to write code in a STRUCTURED way ("structured ap
 
 NOTE:
 
-in -stric mode- we got redering two times -> thats why we get 2 times console log for example
+in -stric mode- components got redered twice -> thats why we get 2 times console log for example
 
 // React v18
 const root = ReactDOM.createRoot(document.getElementById('root'));
