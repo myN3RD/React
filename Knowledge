@@ -192,6 +192,10 @@ A Convention in React is to name comonents in UpperCase!
           JSX
           ___
 
+- is an extension of JS
+
+- describe the UI based on PROPS and STATE
+
 
 
 
