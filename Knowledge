@@ -203,8 +203,15 @@ A Convention in React is to name comonents in UpperCase!
 
 
 
-          PROPS
+          PROPS (FUNDAMENTAL CONCEPT)
           _____
+
+PROPS is: How we pass data between components
+
+from parent components to child components
+
+"its like a communication channel between parent and child component"
+
 
 
 
