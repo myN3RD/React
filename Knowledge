@@ -225,6 +225,12 @@ ONE Components per File
 - describe the UI based on PROPS and STATE
 
 
+NOTE:
+
+class is resrved to JS
+-> in JSX we use className instead
+
+
 
 STYLE
 _____
