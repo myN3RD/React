@@ -206,12 +206,31 @@ A Convention in React is to name comonents in UpperCase!
           PROPS (FUNDAMENTAL CONCEPT)
           _____
 
+PROPS is for NOT for data which changes!
+
 PROPS is: How we pass data between components
 
 from parent components to child components
 
 "its like a communication channel between parent and child component"
 
+
+PROPS can only be updated by the parent component! (not by the child component)
+the parent owns the data
+
+PROPS are read-only!
+
+
+REACT has a ONE-WAY  DATA FLOW
+-> data flow (can only be passed) only from parents to child components
+-> this happens by using props
+
+
+
+          STATE
+          _____
+
+STATE is for data which changes over time.
 
 
 
