@@ -274,6 +274,20 @@ function Header() {
 
 
 
+JSX RULES
+_________
+
+to enter JS mode -> {}
+
+
+touch STATEMENTS in JSX is NOT allowed!
+
+className=''; instead of class='';
+
+every tag has to be closes. Examples: <img /> or <br />
+
+
+
 
 
 
