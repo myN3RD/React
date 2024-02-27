@@ -279,12 +279,26 @@ _________
 
 to enter JS mode -> {}
 
+NOTE:
+
+a comment in JSX -> is by entering JS mode -> thetas why we get {/*....*/}
+
 
 touch STATEMENTS in JSX is NOT allowed!
 
 className=''; instead of class='';
 
 every tag has to be closes. Examples: <img /> or <br />
+
+
+
+
+          REDERING LISTS
+          ______________
+
+redering lists dynamically (where we dont know how many objects a list has)
+
+-> with the  .map method 
 
 
 
