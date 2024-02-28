@@ -308,6 +308,8 @@ redering lists dynamically (where we dont know how many objects a list has)
 
 only if something is true (based on a certain condition) -> render something
 
+EXAMPLE:
+
 function Footer() {
   const hour = new Date().getHours()
   const openHour = 12;
@@ -322,6 +324,13 @@ function Footer() {
   );
 }
 
+
+-> if the contion is false or falsy the second part, after && operator will not be executed and rendered
+
+
+NOTE:
+
+never use conditions without truthy or falsy values - otherwise there will be something still be rendered
 
 
 
