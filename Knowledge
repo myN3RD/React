@@ -303,7 +303,16 @@ redering lists dynamically (where we dont know how many objects a list has)
 
 
 
-          CONDITIONAL RENDERING
+          TURNERIE OPERATOR
+          _________________
+
+SYNTAX 
+
+... ? () : (...)
+
+
+
+          CONDITIONAL RENDERING (with && Operator)
           _____________________
 
 only if something is true (based on a certain condition) -> render something
