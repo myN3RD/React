@@ -303,6 +303,28 @@ redering lists dynamically (where we dont know how many objects a list has)
 
 
 
+          CONDITIONAL RENDERING
+          _____________________
+
+only if something is true (based on a certain condition) -> render something
+
+function Footer() {
+  const hour = new Date().getHours()
+  const openHour = 12;
+  const closeHour = 22;
+  const isOpen = hour >= openHour && hour <= closeHour;
+  console.log(isOpen);
+  
+  return ( 
+    <footer className="footer">
+      {isOpen && <p>Open</p>}                   -> always with the && operator! -> if isOpen is true after the && will be rendered
+    </footer>
+  );
+}
+
+
+
+
 
 
 
